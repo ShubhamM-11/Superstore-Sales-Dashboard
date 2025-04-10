@@ -11,7 +11,7 @@ The dashboard highlights regional performance, product profitability, and sales 
 Highest Sales by Region:
 •	The West and Central regions lead in sales, with Texas (116.2K) and California (107.3K) as top-performing states.
 •	South and East regions show moderate sales but may require further analysis to identify growth opportunities.
-Profit Distribution:
+Profit Distribution: 
 •	North America and Europe contribute significantly to profits, while Africa and South America show lower profitability.
 
 3. Product Performance
